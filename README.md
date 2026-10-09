@@ -1,2 +1,3 @@
-# hola-mundo
-Repositorio de ejemplo con un Hola Mundo.
+# Hola, mundo
+
+¡Hola, mundo!
